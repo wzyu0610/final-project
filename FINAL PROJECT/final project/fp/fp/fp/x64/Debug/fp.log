@@ -1,0 +1,3 @@
+﻿  mian.c
+c:\users\0610w\onedrive\桌面\final project爆改\final project\final project\source\mian.c(16): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  fp.vcxproj -> C:\Users\0610w\OneDrive\桌面\FINAL PROJECT爆改\FINAL PROJECT\final project\fp\fp\x64\Debug\fp.exe

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  mian.c
+c:\users\love0\onedrive\桌面\final project\source\mian.c(19): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\love0\onedrive\桌面\final project\source\mian.c(11): warning C4047: '正在初始化': 'int' 與 'char [6]' 間接取值的層級不同
+c:\users\love0\onedrive\桌面\final project\source\mian.c(11): warning C4047: '正在初始化': 'int' 與 'char [7]' 間接取值的層級不同
+  fp.vcxproj -> C:\Users\love0\OneDrive\桌面\final project\fp\fp\fp\..\..\..\temp\debug\fp.exe
